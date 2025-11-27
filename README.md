@@ -23,4 +23,4 @@ OpenWeatherMap Current Weather API https://openweathermap.org/
 
 ✔ Screenshots
 
-Add your app screenshots here.
+<img width="1892" height="1122" alt="image" src="https://github.com/user-attachments/assets/601b81ca-8b87-4806-a44b-0740b1eabbdd" />
